@@ -1,5 +1,5 @@
 
-![Uploading isaac-struna-rjPs8EffHwA-unsplash.jpg…]()
+![isaac-struna-rjPs8EffHwA-unsplash](https://github.com/arthurchongg/BA-virtual-internship/assets/103975727/bd9e766a-ef81-43e7-97e1-5777e48263cf)
 
 # British Airways virtual internship
 A Data Science virtual internship programme on forage 
